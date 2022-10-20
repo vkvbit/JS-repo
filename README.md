@@ -1,1 +1,1 @@
-one repo for different js files
+This repo contains js file of QWERTY Hero which is at https://github.com/vkvbit/qwerty-hero

@@ -1,6 +1,7 @@
+# about this repo
 This repo contains js file of QWERTY Hero which is at https://github.com/vkvbit/qwerty-hero
 
-
+# about parent repo
 How to see this web app
 This project is live at https://qh.vkvbit.me.
 

@@ -42,5 +42,11 @@ document.addEventListener("keyup", event => {
     targetRandomKey();
   } 
 })
-
+fsd{
+    sf
+    ff dfsd;
+}
+hf(){
+    fdfj
+}
 targetRandomKey();

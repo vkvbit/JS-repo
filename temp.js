@@ -20,8 +20,10 @@ function fibonacci(num)
 	var i=0;
 	}
 	return num2;
+	console.log("dbfb");
 }
 
 document.write("Fibonacci(5): "+fibonacci(5)+"<br>");
 document.write("Fibonacci(8): "+fibonacci(8)+"<br>");
+console.log("dbfbDone");
 </script>

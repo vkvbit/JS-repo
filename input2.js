@@ -4,7 +4,9 @@
 <script>
 function changeImage() {
   document.getElementById('myimage').src = "compman.gif";
+  console.log("dbfbvad");
   console.log("dbfb");
+  console.log("dbfbsav");
 }
 </script>
 

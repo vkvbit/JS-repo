@@ -7,6 +7,7 @@ function changeImage() {
   console.log("dbfbvad");
   console.log("dbfb");
   console.log("dbfbsav");
+  console.log(document.getElementById('myimage').src);
 }
 </script>
 
